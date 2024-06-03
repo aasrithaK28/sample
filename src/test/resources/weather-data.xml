@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dataset>
+    <weather pin_code="123456" area_name="Karimnagar" max_temp="25.5" min_temp="15.5" humidity="low" rain_fall="high" wind="high"/>
+    <weather pin_code="789012" area_name="Peddapalli" max_temp="28.0" min_temp="18.0" humidity="high" rain_fall="low" wind="low"/>
+</dataset>
